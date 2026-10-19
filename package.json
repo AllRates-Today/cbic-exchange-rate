@@ -1,0 +1,67 @@
+{
+  "name": "cbic-exchange-rate",
+  "version": "1.3.16",
+  "description": "Official Central Board of Indirect Taxes and Customs (CBIC) (India) fortnightly exchange rates — 22 currencies vs INR, history since 2020. Zero-dependency Node.js/TypeScript client.",
+  "keywords": [
+    "cbic",
+    "central-board-of-indirect-taxes-and-customs-cbic",
+    "central",
+    "board",
+    "indirect",
+    "taxes",
+    "customs",
+    "exchange-rate",
+    "exchange-rates",
+    "exchangerate",
+    "exchange rate",
+    "exchange rates",
+    "inr-exchange-rate",
+    "currency",
+    "forex",
+    "fx",
+    "inr",
+    "currency-api",
+    "currency-exchange-rates",
+    "forex-api",
+    "currency-conversion",
+    "currency-exchange",
+    "currency-rates",
+    "tax-authority",
+    "official-rates",
+    "india",
+    "api",
+    "typescript"
+  ],
+  "homepage": "https://allratestoday.com/tax-authority-rates-api/cbic/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllRates-Today/cbic-exchange-rate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AllRates-Today/cbic-exchange-rate/issues"
+  },
+  "license": "MIT",
+  "author": "AllRatesToday <hello@allratestoday.com> (https://allratestoday.com)",
+  "type": "module",
+  "main": "./index.cjs",
+  "module": "./index.mjs",
+  "types": "./index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.mjs",
+      "require": "./index.cjs"
+    }
+  },
+  "files": [
+    "index.mjs",
+    "index.cjs",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "sideEffects": false
+}
