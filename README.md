@@ -46,7 +46,59 @@ The open endpoint serves the *latest* table only (JSON by default; add `?format=
 The image is rendered live from the keyless endpoint above, so it follows the tax authority's publications on npm and on GitHub alike without a new release. The same table as text is folded below for search and copy-paste: on GitHub [a daily Action](.github/workflows/daily-table.yml) refreshes it whenever the tax authority publishes a new table; on npm it is as of the package's publish date.
 
 <!-- daily-table:start -->
-_The table is filled in by the daily workflow._
+<details>
+<summary>Table as text: published 2026-10-16 by Central Board of Indirect Taxes and Customs (CBIC) — 44 rates. Updated 2026-10-20.</summary>
+
+| Base | Quote | Type | Rate |
+| --- | --- | --- | ---: |
+| AED | INR | export | 25.15 |
+| AED | INR | import | 26.65 |
+| AUD | INR | export | 64.65 |
+| AUD | INR | import | 67.6 |
+| BHD | INR | export | 237.15 |
+| BHD | INR | import | 267.55 |
+| CAD | INR | export | 65.85 |
+| CAD | INR | import | 68 |
+| CHF | INR | export | 112.25 |
+| CHF | INR | import | 117.2 |
+| CNY | INR | export | 13.95 |
+| CNY | INR | import | 14.45 |
+| DKK | INR | export | 14.1 |
+| DKK | INR | import | 14.45 |
+| EUR | INR | export | 104.85 |
+| EUR | INR | import | 108.55 |
+| GBP | INR | export | 123.95 |
+| GBP | INR | import | 127.95 |
+| HKD | INR | export | 11.95 |
+| HKD | INR | import | 12.25 |
+| JPY | INR | export | 0.5935 |
+| JPY | INR | import | 0.612 |
+| KRW | INR | export | 0.0685 |
+| KRW | INR | import | 0.0725 |
+| KWD | INR | export | 295.9 |
+| KWD | INR | import | 314.7 |
+| NOK | INR | export | 9.9 |
+| NOK | INR | import | 10.15 |
+| NZD | INR | export | 52.1 |
+| NZD | INR | import | 54.8 |
+| QAR | INR | export | 24.45 |
+| QAR | INR | import | 27.9 |
+| SAR | INR | export | 24.9 |
+| SAR | INR | import | 26.95 |
+| SEK | INR | export | 9.45 |
+| SEK | INR | import | 9.65 |
+| SGD | INR | export | 72.9 |
+| SGD | INR | import | 75.4 |
+| TRY | INR | export | 1.85 |
+| TRY | INR | import | 2 |
+| USD | INR | export | 94.2 |
+| USD | INR | import | 95.9 |
+| ZAR | INR | export | 5.6 |
+| ZAR | INR | import | 5.9 |
+
+</details>
+
+Source: [Official rates published by CBIC, served by AllRatesToday](https://allratestoday.com/tax-authority-rates-api/cbic/). Rates are as printed by the tax authority; AllRatesToday is not affiliated with it.
 <!-- daily-table:end -->
 
 ## 📦 Installation
