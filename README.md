@@ -47,7 +47,7 @@ The image is rendered live from the keyless endpoint above, so it follows the ta
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-16 by Central Board of Indirect Taxes and Customs (CBIC) — 44 rates. Updated 2026-10-26.</summary>
+<summary>Table as text: published 2026-10-16 by Central Board of Indirect Taxes and Customs (CBIC) — 44 rates. Updated 2026-10-27.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
