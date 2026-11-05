@@ -32,54 +32,54 @@ The image is rendered live from the keyless endpoint, so it follows the tax auth
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-16 by Central Board of Indirect Taxes and Customs (CBIC) — 44 rates. Updated 2026-10-30.</summary>
+<summary>Table as text: published 2026-11-06 by Central Board of Indirect Taxes and Customs (CBIC) — 44 rates. Updated 2026-11-05.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | INR | export | 25.15 |
-| AED | INR | import | 26.65 |
-| AUD | INR | export | 64.65 |
-| AUD | INR | import | 67.6 |
-| BHD | INR | export | 237.15 |
-| BHD | INR | import | 267.55 |
-| CAD | INR | export | 65.85 |
-| CAD | INR | import | 68 |
-| CHF | INR | export | 112.25 |
-| CHF | INR | import | 117.2 |
-| CNY | INR | export | 13.95 |
-| CNY | INR | import | 14.45 |
-| DKK | INR | export | 14.1 |
+| AED | INR | export | 25 |
+| AED | INR | import | 26.5 |
+| AUD | INR | export | 64.85 |
+| AUD | INR | import | 67.75 |
+| BHD | INR | export | 235.85 |
+| BHD | INR | import | 266.05 |
+| CAD | INR | export | 66.65 |
+| CAD | INR | import | 68.85 |
+| CHF | INR | export | 113.65 |
+| CHF | INR | import | 118.65 |
+| CNY | INR | export | 13.9 |
+| CNY | INR | import | 14.4 |
+| DKK | INR | export | 14.05 |
 | DKK | INR | import | 14.45 |
-| EUR | INR | export | 104.85 |
-| EUR | INR | import | 108.55 |
-| GBP | INR | export | 123.95 |
-| GBP | INR | import | 127.95 |
-| HKD | INR | export | 11.95 |
-| HKD | INR | import | 12.25 |
-| JPY | INR | export | 0.5935 |
-| JPY | INR | import | 0.612 |
+| EUR | INR | export | 104.65 |
+| EUR | INR | import | 108.3 |
+| GBP | INR | export | 125.5 |
+| GBP | INR | import | 129.55 |
+| HKD | INR | export | 11.9 |
+| HKD | INR | import | 12.2 |
+| JPY | INR | export | 0.5895 |
+| JPY | INR | import | 0.608 |
 | KRW | INR | export | 0.0685 |
 | KRW | INR | import | 0.0725 |
-| KWD | INR | export | 295.9 |
-| KWD | INR | import | 314.7 |
-| NOK | INR | export | 9.9 |
-| NOK | INR | import | 10.15 |
+| KWD | INR | export | 294.95 |
+| KWD | INR | import | 313.7 |
+| NOK | INR | export | 10.05 |
+| NOK | INR | import | 10.3 |
 | NZD | INR | export | 52.1 |
 | NZD | INR | import | 54.8 |
-| QAR | INR | export | 24.45 |
-| QAR | INR | import | 27.9 |
-| SAR | INR | export | 24.9 |
-| SAR | INR | import | 26.95 |
-| SEK | INR | export | 9.45 |
-| SEK | INR | import | 9.65 |
-| SGD | INR | export | 72.9 |
-| SGD | INR | import | 75.4 |
+| QAR | INR | export | 24.3 |
+| QAR | INR | import | 27.7 |
+| SAR | INR | export | 23.95 |
+| SAR | INR | import | 26.6 |
+| SEK | INR | export | 9.65 |
+| SEK | INR | import | 9.85 |
+| SGD | INR | export | 72.8 |
+| SGD | INR | import | 75.35 |
 | TRY | INR | export | 1.85 |
-| TRY | INR | import | 2 |
-| USD | INR | export | 94.2 |
-| USD | INR | import | 95.9 |
+| TRY | INR | import | 1.95 |
+| USD | INR | export | 93.65 |
+| USD | INR | import | 95.35 |
 | ZAR | INR | export | 5.6 |
-| ZAR | INR | import | 5.9 |
+| ZAR | INR | import | 5.95 |
 
 </details>
 
