@@ -32,7 +32,7 @@ The image is rendered live from the keyless endpoint, so it follows the tax auth
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-06 by Central Board of Indirect Taxes and Customs (CBIC) — 44 rates. Updated 2026-11-11.</summary>
+<summary>Table as text: published 2026-11-06 by Central Board of Indirect Taxes and Customs (CBIC) — 44 rates. Updated 2026-11-15.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
