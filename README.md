@@ -32,7 +32,7 @@ The image is rendered live from the keyless endpoint, so it follows the tax auth
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-06 by Central Board of Indirect Taxes and Customs (CBIC) — 44 rates. Updated 2026-11-15.</summary>
+<summary>Table as text: published 2026-11-18 by Central Board of Indirect Taxes and Customs (CBIC) — 44 rates. Updated 2026-11-18.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
@@ -70,8 +70,8 @@ The image is rendered live from the keyless endpoint, so it follows the tax auth
 | QAR | INR | import | 27.7 |
 | SAR | INR | export | 23.95 |
 | SAR | INR | import | 26.6 |
-| SEK | INR | export | 9.65 |
-| SEK | INR | import | 9.85 |
+| SEK | INR | export | 9.15 |
+| SEK | INR | import | 9.4 |
 | SGD | INR | export | 72.8 |
 | SGD | INR | import | 75.35 |
 | TRY | INR | export | 1.85 |
