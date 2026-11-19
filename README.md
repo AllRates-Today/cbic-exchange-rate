@@ -32,14 +32,14 @@ The image is rendered live from the keyless endpoint, so it follows the tax auth
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-18 by Central Board of Indirect Taxes and Customs (CBIC) — 44 rates. Updated 2026-11-18.</summary>
+<summary>Table as text: published 2026-11-19 by Central Board of Indirect Taxes and Customs (CBIC) — 44 rates. Updated 2026-11-19.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
 | AED | INR | export | 25 |
 | AED | INR | import | 26.5 |
-| AUD | INR | export | 64.85 |
-| AUD | INR | import | 67.75 |
+| AUD | INR | export | 61.4 |
+| AUD | INR | import | 64.25 |
 | BHD | INR | export | 235.85 |
 | BHD | INR | import | 266.05 |
 | CAD | INR | export | 66.65 |
